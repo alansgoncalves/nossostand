@@ -1,0 +1,208 @@
+{
+  "Header": {
+    "title": "O melhor stand em 5 minutos",
+    "paragraph": "A maneira mais prática e inteligente de orçar e gerenciar seu projeto de stand e cenografia.",
+    "question": "Em que cidade você quer o seu stand?"
+  },
+  "About": {
+    "paragraph": "Nossostand é a solução 360° para qualquer empresa que deseja viabilizar um projeto de stand e cenografia em QUALQUER cidade do Brasil"
+  },
+  "Eventos": [
+    {
+      "title": "Natural Life",
+      "largeImage": "eventos/natural_life.png",
+      "smallImage": "eventos/natural_life.png"
+    },
+    {
+      "title": "IN-COSMETICS LATIN AMERICA",
+      "largeImage": "eventos/incosmetics20.jpeg",
+      "smallImage": "eventos/incosmetics20.jpeg"
+    },
+    {
+      "title": "ISC BRASIL",
+      "largeImage": "eventos/isc_brasil.jpeg",
+      "smallImage": "eventos/isc_brasil.jpeg"
+    },
+    {
+      "title": "SEAFOOD SHOW LATIN AMERICA",
+      "largeImage": "eventos/seafood_show.jpeg",
+      "smallImage": "eventos/seafood_show.jpeg"
+    },
+    {
+      "title": "BRAZIL WINDPOWER",
+      "largeImage": "eventos/brazil_windpower.jpg",
+      "smallImage": "eventos/brazil_windpower.jpg"
+    },
+    {
+      "title": "FUTURECOM",
+      "largeImage": "eventos/future_com.jpeg",
+      "smallImage": "eventos/future_com.jpeg"
+    },
+    {
+      "title": "SALÃO DUAS RODAS",
+      "largeImage": "eventos/duas_rodas.png",
+      "smallImage": "eventos/duas_rodas.png"
+    },
+    {
+      "title": "MOVIMAT",
+      "largeImage": "eventos/movimat.jpeg",
+      "smallImage": "eventos/movimat.jpeg"
+    },
+    {
+      "title": "BioBrasil",
+      "largeImage": "eventos/bio_brasil.jpg",
+      "smallImage": "eventos/bio_brasil.jpg"
+    },
+    {
+      "title": "FENATRAN",
+      "largeImage": "eventos/fenatran.png",
+      "smallImage": "eventos/fenatran.png"
+    },
+    {
+      "title": "VegFest",
+      "largeImage": "eventos/vegfest.png",
+      "smallImage": "eventos/vegfest.png"
+    },
+    {
+      "title": "INTERMODAL SOUTH AMERICA",
+      "largeImage": "eventos/intermodal.jpeg",
+      "smallImage": "eventos/intermodal.jpeg"
+    },
+    {
+      "title": "NT EXPO",
+      "largeImage": "eventos/nt_expo.jpeg",
+      "smallImage": "eventos/nt_expo.jpeg"
+    },
+    {
+      "title": "ABRIN",
+      "largeImage": "eventos/abrin.jpeg",
+      "smallImage": "eventos/abrin.jpeg"
+    },
+    {
+      "title": "WORLD TRAVEL MARKET (WTM) LATIN AMERICA",
+      "largeImage": "eventos/world_travel.jpeg",
+      "smallImage": "eventos/world_travel.jpeg"
+    },
+    {
+      "title": "PLÁSTICO BRASIL",
+      "largeImage": "eventos/plastico_brasil.png",
+      "smallImage": "eventos/plastico_brasil.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/bio_specialist_logo.jpeg",
+      "text": "Montar um stand personalizado na feira é sempre um desafio e uma dificuldade grande. Na verdade 'era' difícil porque o nossostand facilitou, e muito, todo esse processo, colocando tudo no mesmo lugar e com ferramentas que facilitam o processo de comunicação e gerenciamento do projeto. Além da montagem, todo o suporte técnico da equipe nossostand facilitou muito nossa feira! Tudo impecável e com muita praticidade.",
+      "name": "Tahone Jacobs, BS&CO"
+    },
+    {
+      "img": "img/testimonials/logo_wvegan.png",
+      "text": "Adorei desde o atendimento até a execução. Não preciso mais ficar orçando de todo jeito, mandando emails, whatsapp, direct de instagram. Tudo eu resolvo na nossostand, e sempre vou confiar.",
+      "name": "Fernanda Baffa, W VEGAN"
+    },
+    {
+      "img": "img/testimonials/bio_specialist_logo.jpeg",
+      "text": "Montar um stand personalizado na feira é sempre um desafio e uma dificuldade grande. Na verdade 'era' difícil porque o nossostand facilitou, e muito, todo esse processo, colocando tudo no mesmo lugar e com ferramentas que facilitam o processo de comunicação e gerenciamento do projeto. Além da montagem, todo o suporte técnico da equipe nossostand facilitou muito nossa feira! Tudo impecável e com muita praticidade.",
+      "name": "Tahone Jacobs, BS&CO"
+    },
+    {
+      "img": "img/testimonials/logo_wvegan.png",
+      "text": "Adorei desde o atendimento até a execução. Não preciso mais ficar orçando de todo jeito, mandando emails, whatsapp, direct de instagram. Tudo eu resolvo na nossostand, e sempre vou confiar.",
+      "name": "Fernanda Baffa, W VEGAN"
+    },
+    {
+      "img": "img/testimonials/bio_specialist_logo.jpeg",
+      "text": "Montar um stand personalizado na feira é sempre um desafio e uma dificuldade grande. Na verdade 'era' difícil porque o nossostand facilitou, e muito, todo esse processo, colocando tudo no mesmo lugar e com ferramentas que facilitam o processo de comunicação e gerenciamento do projeto. Além da montagem, todo o suporte técnico da equipe nossostand facilitou muito nossa feira! Tudo impecável e com muita praticidade.",
+      "name": "Tahone Jacobs, BS&CO"
+    },
+    {
+      "img": "img/testimonials/logo_wvegan.png",
+      "text": "Adorei desde o atendimento até a execução. Não preciso mais ficar orçando de todo jeito, mandando emails, whatsapp, direct de instagram. Tudo eu resolvo na nossostand, e sempre vou confiar.",
+      "name": "Fernanda Baffa, W VEGAN"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
